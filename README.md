@@ -33,7 +33,15 @@ I'm passionante by developing and love learning new things to improve my skills 
 
 <details>
  <summary><h3>:man_technologist: Bruno's Coding Journey</h3></summary>
- I started my coding journey as naive Information systems student with a passion to learn more about tecnology
+ Hey everyone, let me tell you about my amazing coding journey! It all started back in 2018 when I was studying Information Systems. That's when I had my first taste of coding, and let me tell you, it was love at first sight. From that moment on, I knew I wanted to dive deeper into the world of technology and programming.
+
+Fast forward a few years, and here I am, a proud software developer! That's right, I started working in 2021, and it's been an incredible experience so far. I've learned so much, and I feel like I'm just scratching the surface of what's possible in this field.
+
+But what really drives me is my passion for learning. Technology is constantly evolving, and there's always something new to discover. I love staying up to date with the latest trends and advancements, and I'm constantly pushing myself to learn more.
+
+Coding isn't just a job for me, it's a lifestyle. I love the problem-solving aspect of it, and the feeling of accomplishment when I finally crack a tough challenge. And let's not forget the satisfaction of seeing my code come to life and actually making a difference in the world.
+
+So, there you have it, my coding journey in a nutshell. It's been an exciting ride so far, and I can't wait to see where it takes me next. Whether it's building the next big app or contributing to groundbreaking research, I'm ready for whatever the future holds.
 
 <!--
 **Bruno-Falcao/Bruno-Falcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
