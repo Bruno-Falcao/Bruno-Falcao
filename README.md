@@ -25,7 +25,7 @@ I'm passionante by developing and love learning new things to improve my skills 
 
 #
 
-### Stats
+### :bar_chart: Stats
 
 <!--
 **Bruno-Falcao/Bruno-Falcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
