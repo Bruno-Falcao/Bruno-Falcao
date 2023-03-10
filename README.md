@@ -2,9 +2,7 @@
 
  `Software Developer`
 
-I'm a backend developer with two years of experience, I have improved my skills in software development using different tecnologies like: Java, SpringBoot, Python, and FastApi. I also had the pleasure of participating in some full-stack projects, where I've gained experience leading teams and delivering successful results.
-
-I'm passionante by developing solutions that can be helpfull and efficient, i'm always looking for leaning new things , wheter through studying or getting my hands dirty and testing stuff myself.
+I'm passionante by developing and love learning new things to improve my skills to make the digital world more interesting and cool. This is how i see the technology, a tool to make the things easier and of course more funny.
 
 
 
