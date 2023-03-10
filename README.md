@@ -28,6 +28,12 @@ I'm passionante by developing and love learning new things to improve my skills 
 ### :bar_chart: Stats
 
 ![Brunos's Github stats](https://github-readme-stats.vercel.app/api?username=Bruno-Falcao&show_icons=true&theme=radical)
+
+#
+
+<details>
+ <summary><h3></h3></summary>
+
 <!--
 **Bruno-Falcao/Bruno-Falcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
