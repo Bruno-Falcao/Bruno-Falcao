@@ -7,6 +7,7 @@ I'm passionante by developing and love learning new things to improve my skills 
 
 ![coding is lit](https://user-images.githubusercontent.com/80421885/224390448-adea0d34-8618-4e06-8c9a-f5b73af64349.gif)
 
+---
 
 <!--
 **Bruno-Falcao/Bruno-Falcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
