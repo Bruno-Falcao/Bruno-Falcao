@@ -5,6 +5,7 @@
 I'm passionante by developing and love learning new things to improve my skills to make the digital world more interesting and cool. This is how i see the technology, a tool to make the things easier and of course more funny.
 
 
+![coding is lit](https://user-images.githubusercontent.com/80421885/224390448-adea0d34-8618-4e06-8c9a-f5b73af64349.gif)
 
 
 <!--
