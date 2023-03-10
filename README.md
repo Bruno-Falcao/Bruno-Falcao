@@ -18,8 +18,10 @@ I'm passionante by developing and love learning new things to improve my skills 
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
 
 
 <!--
