@@ -1,6 +1,6 @@
 # Bruno Lobo Falcão
 
-** `Software Developer`**
+ `Software Developer`
 
 
 
