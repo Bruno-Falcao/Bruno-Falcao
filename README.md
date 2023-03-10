@@ -1,10 +1,11 @@
-# Bruno Lobo Falcão
+# :bouncing_ball_man: Bruno Lobo Falcão
 
  `Software Developer`
 
 I'm a backend developer with two years of experience, I have improved my skills in software development using different tecnologies like: Java, SpringBoot, Python, and FastApi. I also had the pleasure of participating in some full-stack projects, where I've gained experience leading teams and delivering successful results.
 
 I'm passionante by developing solutions that can be helpfull and efficient, i'm always looking for leaning new things , wheter through studying or getting my hands dirty and testing stuff myself.
+
 
 
 
