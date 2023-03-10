@@ -33,6 +33,7 @@ I'm passionante by developing and love learning new things to improve my skills 
 
 <details>
  <summary><h3>:man_technologist: Bruno's Coding Journey</h3></summary>
+ I started my coding journey as naive Information systems student with a passion to learn more about tecnology
 
 <!--
 **Bruno-Falcao/Bruno-Falcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
