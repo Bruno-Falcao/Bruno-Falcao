@@ -2,7 +2,7 @@
 
  `Software Developer`
 
-I'm passionante by developing and love learning new things to improve my skills to make the digital world more interesting and cool. I love to learn new technologies and different ways to solve problems.
+I'm passionante by developing and love learning new things to improve my skills to make the digital world more interesting and cool. It's always fun to learn new technologies and different ways to solve problems.
 
 
 ![coding is lit](https://user-images.githubusercontent.com/80421885/224390448-adea0d34-8618-4e06-8c9a-f5b73af64349.gif)
